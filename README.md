@@ -25,3 +25,7 @@ Sistema de acompanhamento fitness desenvolvido em React.
 ## Autor
 
 João Pedro Félix de Oliveira
+
+## Acesse o projeto online
+
+https://fittrack-jp.netlify.app/
